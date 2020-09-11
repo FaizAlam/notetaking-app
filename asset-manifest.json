@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/to-dolist-app/static/css/main.b1f82be5.chunk.css",
+    "main.js": "/to-dolist-app/static/js/main.2366f0bb.chunk.js",
+    "main.js.map": "/to-dolist-app/static/js/main.2366f0bb.chunk.js.map",
+    "runtime-main.js": "/to-dolist-app/static/js/runtime-main.d1acf20d.js",
+    "runtime-main.js.map": "/to-dolist-app/static/js/runtime-main.d1acf20d.js.map",
+    "static/js/2.ad6cc904.chunk.js": "/to-dolist-app/static/js/2.ad6cc904.chunk.js",
+    "static/js/2.ad6cc904.chunk.js.map": "/to-dolist-app/static/js/2.ad6cc904.chunk.js.map",
+    "index.html": "/to-dolist-app/index.html",
+    "precache-manifest.34c2acd031727dd510918a595b6c5e42.js": "/to-dolist-app/precache-manifest.34c2acd031727dd510918a595b6c5e42.js",
+    "service-worker.js": "/to-dolist-app/service-worker.js",
+    "static/css/main.b1f82be5.chunk.css.map": "/to-dolist-app/static/css/main.b1f82be5.chunk.css.map",
+    "static/js/2.ad6cc904.chunk.js.LICENSE.txt": "/to-dolist-app/static/js/2.ad6cc904.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1acf20d.js",
+    "static/js/2.ad6cc904.chunk.js",
+    "static/css/main.b1f82be5.chunk.css",
+    "static/js/main.2366f0bb.chunk.js"
+  ]
+}
