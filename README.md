@@ -1,4 +1,4 @@
-# to-dolist-app
-This is a simple to-do list app.Built using ReactJS.
+# notetaking-app
+This is a simple note-taking/making app. Built using ReactJS.
 
 http://faizalam.github.io/to-dolist-app/
